@@ -1,2 +1,2 @@
 # odin-recipe
-Simple webpage with HTML
+My first simple recipe webpage with HTML
