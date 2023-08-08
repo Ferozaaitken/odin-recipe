@@ -1,5 +1,5 @@
 # odin-recipes
-My first website made with only HTML 
+My first website made with HTML and some CSS. 
 The Odin Project
 
-Live: https://ferozaaitken.github.io/odin-recipes/index.html
+Live: file:///home/fero/odin-recipes/index.html
