@@ -1,0 +1,28 @@
+/* styles for HTML body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* styles for headings */
+h1, h2, h3 {
+  color: #1c1b1b;
+}
+
+/* styles for paragraphs */
+p {
+  line-height: 1.5;
+}
+
+/* styles for links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* styles for classes */
+.highlight {
+  background-color: rgb(237, 237, 213);
+}
